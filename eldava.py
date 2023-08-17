@@ -5,7 +5,6 @@ import colorsys
 import subprocess, os, platform
 import pandas as pd
 import gpxpy
-import datetime
 
 #%% define functions
 def random_color():
